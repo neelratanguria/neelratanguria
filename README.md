@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 [![Neel's GitHub stats](https://github-readme-stats.vercel.app/api?username=neelratanguria)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelratanguria&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
