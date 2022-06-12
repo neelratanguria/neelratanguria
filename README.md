@@ -2,7 +2,7 @@
 
 #### Terminal File transfer for DEVs
 Url: https://focused-kepler-d70006.netlify.app/
-[![Admin](https://boisterous-alpaca-37b7e6.netlify.app/assets/termtransfer.png)](https://focused-kepler-d70006.netlify.app/)
+[![Terminal Transfer](https://boisterous-alpaca-37b7e6.netlify.app/assets/termtransfer.png)](https://focused-kepler-d70006.netlify.app/)
 
 #### Ecom Dashboard
 Url: https://nrg-ecom-dashboard.netlify.app/
@@ -11,6 +11,10 @@ Url: https://nrg-ecom-dashboard.netlify.app/
 #### NFT Marketplace
 Url: https://nrg-app-showcase.netlify.app/
 [![NFT](https://boisterous-alpaca-37b7e6.netlify.app/assets/capture.png)](https://nrg-app-showcase.netlify.app/)
+
+#### Workout Guide
+Url: https://nrg-gym-app.netlify.app/
+[![Workout App](https://boisterous-alpaca-37b7e6.netlify.app/assets/gymapp.png)](https://nrg-gym-app.netlify.app/)
 
 
 ### Hi there 👋
