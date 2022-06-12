@@ -1,5 +1,9 @@
 ## Treat for eyes
+
 https://nrg-ecom-dashboard.netlify.app/
+
+[![N|Solid](https://nrg-app-showcase.netlify.app/static/media/home_hero.08651b83de3b3167695a.png)](https://nrg-app-showcase.netlify.app/)
+https://nrg-app-showcase.netlify.app/
 
 ### Hi there 👋
 
