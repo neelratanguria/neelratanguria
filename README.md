@@ -1,9 +1,11 @@
 ## Treat for eyes
 
-https://nrg-ecom-dashboard.netlify.app/
+#### Ecom Dashboard
+Url: https://nrg-ecom-dashboard.netlify.app/
 [![Admin](https://boisterous-alpaca-37b7e6.netlify.app/assets/admin.png)](https://nrg-ecom-dashboard.netlify.app/)
 
-https://nrg-app-showcase.netlify.app/
+#### NFT Marketplace
+Url: https://nrg-app-showcase.netlify.app/
 [![NFT](https://boisterous-alpaca-37b7e6.netlify.app/assets/capture.png)](https://nrg-app-showcase.netlify.app/)
 
 
