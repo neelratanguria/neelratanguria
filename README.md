@@ -1,9 +1,11 @@
 ## Treat for eyes
 
 https://nrg-ecom-dashboard.netlify.app/
+[![Admin](https://boisterous-alpaca-37b7e6.netlify.app/assets/admin.png)](https://nrg-ecom-dashboard.netlify.app/)
 
-[![N|Solid](https://nrg-app-showcase.netlify.app/static/media/home_hero.08651b83de3b3167695a.png)](https://nrg-app-showcase.netlify.app/)
 https://nrg-app-showcase.netlify.app/
+[![NFT](https://boisterous-alpaca-37b7e6.netlify.app/assets/capture.png)](https://nrg-app-showcase.netlify.app/)
+
 
 ### Hi there 👋
 
