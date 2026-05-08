@@ -4,11 +4,6 @@
 - Url: https://focused-kepler-d70006.netlify.app/
 [![Terminal Transfer](https://boisterous-alpaca-37b7e6.netlify.app/assets/termtransfer.png)](https://focused-kepler-d70006.netlify.app/)
 
-#### Ecom Dashboard
-- Url: https://nrg-ecom-dashboard.netlify.app/
-- Repository: https://github.com/firebirdtech/react-admin-dashboard
-[![Admin](https://boisterous-alpaca-37b7e6.netlify.app/assets/admin.png)](https://nrg-ecom-dashboard.netlify.app/)
-
 #### NFT Marketplace
 - Url: https://nrg-app-showcase.netlify.app/
 - Repository: https://github.com/firebirdtech/nft-marketplace
