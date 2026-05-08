@@ -1,4 +1,4 @@
-## Treat for eyes
+## Sample side projects
 
 #### Terminal File transfer for DEVs
 - Url: https://focused-kepler-d70006.netlify.app/
